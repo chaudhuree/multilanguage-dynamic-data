@@ -1,0 +1,39 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "description": "This is a product description.",
+        "description_fr": "Ceci est une description de produit.",
+        "quantity": 10,
+        "features": {
+          "cpu": {
+            "description": "14 cores and 20 threads for a solid gaming and multitasking experience.",
+            "description_fr": "14 cœurs et 20 threads pour une expérience de jeu et de multitâche solide.",
+            "baseClock": "3.50 GHz",
+            "boostClock": "5.10 GHz",
+            "cache": "24 MB Intel Smart Cache",
+            "cores": "14",
+            "threads": "20",
+            "TDP": "125W",
+            "socket": "LGA 1700"
+          },
+          "memory": {
+            "description": "Supports DDR5/DDR4 memory for flexible memory options.",
+            "description_fr": "Prend en charge la mémoire DDR5/DDR4 pour des options de mémoire flexibles.",
+            "memorySupport": "DDR5-5600, DDR4-3200",
+            "maxMemory": "128 GB",
+            "channels": "Dual-channel"
+          }
+        }
+      },
+      {
+        "id": 2,
+        "name": "Product 2",
+        "description": "This is another product description.",
+        "description_fr": "Ceci est une autre description de produit.",
+        "quantity": 5
+      }
+    ]
+  }
+  
